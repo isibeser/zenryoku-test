@@ -18,12 +18,12 @@
       "category": "games",
       "versions": [
         {
-          "version": "0.1.41",
-          "buildVersion": "41",
-          "date": "2026-11-15T17:26:27Z",
-          "localizedDescription": "Test-Fassung 0.1.41 vom 15.11.2026, 18:26 Uhr.",
-          "downloadURL": "https://github.com/isibeser/zenryoku-test/releases/download/zenryoku/ZENRYOKU-0.1.41.ipa",
-          "size": 146125316,
+          "version": "0.1.43",
+          "buildVersion": "43",
+          "date": "2026-11-15T19:12:06Z",
+          "localizedDescription": "Test-Fassung 0.1.43 vom 15.11.2026, 20:12 Uhr.",
+          "downloadURL": "https://github.com/isibeser/zenryoku-test/releases/download/zenryoku/ZENRYOKU-0.1.43.ipa",
+          "size": 152181234,
           "minOSVersion": "15.0"
         }
       ],
@@ -31,11 +31,11 @@
         "entitlements": [],
         "privacy": {}
       },
-      "version": "0.1.41",
-      "versionDate": "2026-11-15T17:26:27Z",
-      "versionDescription": "Test-Fassung 0.1.41 vom 15.11.2026, 18:26 Uhr.",
-      "downloadURL": "https://github.com/isibeser/zenryoku-test/releases/download/zenryoku/ZENRYOKU-0.1.41.ipa",
-      "size": 146125316
+      "version": "0.1.43",
+      "versionDate": "2026-11-15T19:12:06Z",
+      "versionDescription": "Test-Fassung 0.1.43 vom 15.11.2026, 20:12 Uhr.",
+      "downloadURL": "https://github.com/isibeser/zenryoku-test/releases/download/zenryoku/ZENRYOKU-0.1.43.ipa",
+      "size": 152181234
     }
   ],
   "news": []
