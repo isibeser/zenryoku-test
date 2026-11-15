@@ -1,0 +1,42 @@
+{
+  "name": "ZENRYOKU – Test",
+  "identifier": "com.isibeser.zenryoku.quelle",
+  "subtitle": "Test-Fassungen von ZENRYOKU: Sigilborn",
+  "description": "ZENRYOKU: Sigilborn – das Anime-Kampfspiel.\n\nDas hier sind frühe Test-Fassungen: Es kann ruckeln, abstürzen oder sich jederzeit ändern. Neue Fassungen erscheinen hier automatisch unter „Updates“.",
+  "iconURL": "https://raw.githubusercontent.com/isibeser/zenryoku-test/main/icon.png",
+  "website": "https://github.com/isibeser/zenryoku-test",
+  "sourceURL": "https://raw.githubusercontent.com/isibeser/zenryoku-test/main/quelle.json",
+  "nsfw": false,
+  "apps": [
+    {
+      "name": "ZENRYOKU",
+      "bundleIdentifier": "com.isibeser.zenryoku",
+      "developerName": "isibeser",
+      "subtitle": "Anime-Kampfspiel – Test-Fassung",
+      "localizedDescription": "ZENRYOKU: Sigilborn – das Anime-Kampfspiel.\n\nDas hier sind frühe Test-Fassungen: Es kann ruckeln, abstürzen oder sich jederzeit ändern. Neue Fassungen erscheinen hier automatisch unter „Updates“.",
+      "iconURL": "https://raw.githubusercontent.com/isibeser/zenryoku-test/main/icon.png",
+      "category": "games",
+      "versions": [
+        {
+          "version": "0.1.24",
+          "buildVersion": "24",
+          "date": "2026-11-15T08:52:59Z",
+          "localizedDescription": "Test-Fassung 0.1.24 vom 15.11.2026, 09:52 Uhr.",
+          "downloadURL": "https://github.com/isibeser/zenryoku-test/releases/download/zenryoku/ZENRYOKU-0.1.24.ipa",
+          "size": 145621051,
+          "minOSVersion": "15.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "version": "0.1.24",
+      "versionDate": "2026-11-15T08:52:59Z",
+      "versionDescription": "Test-Fassung 0.1.24 vom 15.11.2026, 09:52 Uhr.",
+      "downloadURL": "https://github.com/isibeser/zenryoku-test/releases/download/zenryoku/ZENRYOKU-0.1.24.ipa",
+      "size": 145621051
+    }
+  ],
+  "news": []
+}
