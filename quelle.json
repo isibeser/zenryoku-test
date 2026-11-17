@@ -18,12 +18,12 @@
       "category": "games",
       "versions": [
         {
-          "version": "0.1.92",
-          "buildVersion": "92",
-          "date": "2026-11-17T07:41:42Z",
-          "localizedDescription": "Test-Fassung 0.1.92 vom 17.11.2026, 08:41 Uhr.",
-          "downloadURL": "https://github.com/isibeser/zenryoku-test/releases/download/zenryoku/ZENRYOKU-0.1.92.ipa",
-          "size": 214967686,
+          "version": "0.1.93",
+          "buildVersion": "93",
+          "date": "2026-11-17T08:00:49Z",
+          "localizedDescription": "Test-Fassung 0.1.93 vom 17.11.2026, 09:00 Uhr.",
+          "downloadURL": "https://github.com/isibeser/zenryoku-test/releases/download/zenryoku/ZENRYOKU-0.1.93.ipa",
+          "size": 218564155,
           "minOSVersion": "15.0"
         }
       ],
@@ -31,11 +31,11 @@
         "entitlements": [],
         "privacy": {}
       },
-      "version": "0.1.92",
-      "versionDate": "2026-11-17T07:41:42Z",
-      "versionDescription": "Test-Fassung 0.1.92 vom 17.11.2026, 08:41 Uhr.",
-      "downloadURL": "https://github.com/isibeser/zenryoku-test/releases/download/zenryoku/ZENRYOKU-0.1.92.ipa",
-      "size": 214967686
+      "version": "0.1.93",
+      "versionDate": "2026-11-17T08:00:49Z",
+      "versionDescription": "Test-Fassung 0.1.93 vom 17.11.2026, 09:00 Uhr.",
+      "downloadURL": "https://github.com/isibeser/zenryoku-test/releases/download/zenryoku/ZENRYOKU-0.1.93.ipa",
+      "size": 218564155
     }
   ],
   "news": []
