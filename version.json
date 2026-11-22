@@ -1,0 +1,20 @@
+{
+  "android": {
+    "nummer": 179,
+    "version": "0.1.179",
+    "datum": "2026-11-22T16:41:56Z",
+    "url": "https://github.com/isibeser/zenryoku-test/releases/download/zenryoku/ZENRYOKU.apk",
+    "signatur": "test"
+  },
+  "iphone": {
+    "nummer": 97,
+    "version": "0.1.97"
+  },
+  "mindestNummer": 0,
+  "festAb": 0,
+  "neu": [
+    "Arena-Regeln",
+    "Rechtliches & Spielzeit",
+    "Podest im Menü"
+  ]
+}
