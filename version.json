@@ -1,8 +1,8 @@
 {
   "android": {
-    "nummer": 186,
-    "version": "0.1.186",
-    "datum": "2026-11-22T20:00:11Z",
+    "nummer": 187,
+    "version": "0.1.187",
+    "datum": "2026-11-22T21:22:50Z",
     "url": "https://github.com/isibeser/zenryoku-test/releases/download/zenryoku/ZENRYOKU.apk",
     "signatur": "fest"
   },
@@ -13,8 +13,8 @@
   "mindestNummer": 0,
   "festAb": 184,
   "neu": [
-    "Freundes-Liga",
-    "Siegel-Kalender und Rivalen-Leiter",
-    "Truhen, Drops und Erwachen in 3D"
+    "Die KI der Test-App pariert wie im Browser",
+    "Feedback senden",
+    "Liga-Einladung öffnet die App"
   ]
 }
