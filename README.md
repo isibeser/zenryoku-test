@@ -8,7 +8,14 @@ Diese Seite wird bei jeder neuen Fassung automatisch aktualisiert.
 1. Am Handy öffnen: **[ZENRYOKU.apk herunterladen](https://github.com/isibeser/zenryoku-test/releases/download/zenryoku/ZENRYOKU.apk)**
 2. Datei öffnen → **Installieren** (beim ersten Mal „Aus dieser Quelle zulassen“ erlauben).
 
-Neue Fassung: denselben Link wieder öffnen und drüber installieren.
+Neue Fassung: denselben Link wieder öffnen und **drüber installieren** – dein Spielstand bleibt. Die App zeigt im Hauptmenü selbst an,
+wenn es eine neue Fassung gibt („LADEN“).
+
+**Einmalig:** Seit dem Wechsel auf den festen App-Schlüssel (Ende November 2026) musst du die alte App **ein letztes Mal löschen** und
+neu installieren (Spielstand mitnehmen: vorher unter Optionen → Konto & Daten den Code notieren, danach „Code eingeben“). Danach nie wieder.
+
+**Updates automatisch melden lassen (optional):** die kostenlose App **Obtainium** installieren (z. B. über F-Droid) → **App hinzufügen** →
+Adresse `https://github.com/isibeser/zenryoku-test` → Hinzufügen. Neue Fassungen kommen dann als Benachrichtigung.
 
 ## iPhone (über SideStore)
 
