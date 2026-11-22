@@ -1,8 +1,8 @@
 {
   "android": {
-    "nummer": 182,
-    "version": "0.1.182",
-    "datum": "2026-11-22T17:26:42Z",
+    "nummer": 183,
+    "version": "0.1.183",
+    "datum": "2026-11-22T17:39:10Z",
     "url": "https://github.com/isibeser/zenryoku-test/releases/download/zenryoku/ZENRYOKU.apk",
     "signatur": "test"
   },
@@ -13,8 +13,8 @@
   "mindestNummer": 0,
   "festAb": 0,
   "neu": [
+    "Timing, Vibration und mehr",
     "Arena-Regeln",
-    "Rechtliches & Spielzeit",
-    "Podest im Menü"
+    "Rechtliches & Spielzeit"
   ]
 }
