@@ -1,8 +1,8 @@
 {
   "android": {
-    "nummer": 188,
-    "version": "0.1.188",
-    "datum": "2026-11-22T21:31:55Z",
+    "nummer": 189,
+    "version": "0.1.189",
+    "datum": "2026-11-22T22:20:51Z",
     "url": "https://github.com/isibeser/zenryoku-test/releases/download/zenryoku/ZENRYOKU.apk",
     "signatur": "fest"
   },
@@ -13,8 +13,8 @@
   "mindestNummer": 0,
   "festAb": 184,
   "neu": [
+    "Alle Kämpfer in der Test-App geprüft",
     "Die KI der Test-App pariert wie im Browser",
-    "Feedback senden",
-    "Liga-Einladung öffnet die App"
+    "Feedback senden"
   ]
 }
