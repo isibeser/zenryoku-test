@@ -1,17 +1,17 @@
 {
   "android": {
-    "nummer": 183,
-    "version": "0.1.183",
-    "datum": "2026-11-22T17:39:10Z",
+    "nummer": 184,
+    "version": "0.1.184",
+    "datum": "2026-11-22T19:00:21Z",
     "url": "https://github.com/isibeser/zenryoku-test/releases/download/zenryoku/ZENRYOKU.apk",
-    "signatur": "test"
+    "signatur": "fest"
   },
   "iphone": {
     "nummer": 97,
     "version": "0.1.97"
   },
   "mindestNummer": 0,
-  "festAb": 0,
+  "festAb": 184,
   "neu": [
     "Timing, Vibration und mehr",
     "Arena-Regeln",
