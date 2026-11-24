@@ -1,8 +1,8 @@
 {
   "android": {
-    "nummer": 203,
-    "version": "0.1.203",
-    "datum": "2026-11-24T21:51:52Z",
+    "nummer": 204,
+    "version": "0.1.204",
+    "datum": "2026-11-24T22:09:12Z",
     "url": "https://github.com/isibeser/zenryoku-test/releases/download/zenryoku/ZENRYOKU.apk",
     "signatur": "fest"
   },
@@ -13,8 +13,8 @@
   "mindestNummer": 0,
   "festAb": 184,
   "neu": [
+    "Jin zieht wie ein Samurai",
     "Im Takt – auch ohne Farben",
-    "Kombo-Weiche",
-    "Anime-Bewegung für Ottilie, Tyrath und Aldric"
+    "Kombo-Weiche"
   ]
 }
