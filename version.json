@@ -1,8 +1,8 @@
 {
   "android": {
-    "nummer": 205,
-    "version": "0.1.205",
-    "datum": "2026-11-24T22:23:23Z",
+    "nummer": 206,
+    "version": "0.1.206",
+    "datum": "2026-11-24T22:53:00Z",
     "url": "https://github.com/isibeser/zenryoku-test/releases/download/zenryoku/ZENRYOKU.apk",
     "signatur": "fest"
   },
@@ -13,8 +13,8 @@
   "mindestNummer": 0,
   "festAb": 184,
   "neu": [
+    "Leuchten wie auf der Konsole",
     "Jin zieht wie ein Samurai",
-    "Im Takt – auch ohne Farben",
-    "Kombo-Weiche"
+    "Im Takt – auch ohne Farben"
   ]
 }
