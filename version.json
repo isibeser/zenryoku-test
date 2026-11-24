@@ -1,8 +1,8 @@
 {
   "android": {
-    "nummer": 200,
-    "version": "0.1.200",
-    "datum": "2026-11-24T19:31:22Z",
+    "nummer": 203,
+    "version": "0.1.203",
+    "datum": "2026-11-24T21:51:52Z",
     "url": "https://github.com/isibeser/zenryoku-test/releases/download/zenryoku/ZENRYOKU.apk",
     "signatur": "fest"
   },
@@ -13,8 +13,8 @@
   "mindestNummer": 0,
   "festAb": 184,
   "neu": [
-    "Spieltests vorbereitet",
-    "Controller und Nocti",
-    "Alle Kämpfer in der Test-App geprüft"
+    "Im Takt – auch ohne Farben",
+    "Kombo-Weiche",
+    "Anime-Bewegung für Ottilie, Tyrath und Aldric"
   ]
 }
