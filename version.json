@@ -1,8 +1,8 @@
 {
   "android": {
-    "nummer": 217,
-    "version": "0.1.217",
-    "datum": "2026-11-26T19:02:57Z",
+    "nummer": 218,
+    "version": "0.1.218",
+    "datum": "2026-11-26T19:38:48Z",
     "url": "https://github.com/isibeser/zenryoku-test/releases/download/zenryoku/ZENRYOKU.apk",
     "signatur": "fest"
   },
@@ -13,8 +13,8 @@
   "mindestNummer": 0,
   "festAb": 184,
   "neu": [
-    "Weniger Ruckler beim ersten Effekt",
-    "Neue Optionen",
-    "Listen wie aus einem Guss"
+    "Schneller im Menü",
+    "Grundkurs ohne Überraschung",
+    "Ehrlich gefragt"
   ]
 }
