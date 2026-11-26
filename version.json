@@ -1,8 +1,8 @@
 {
   "android": {
-    "nummer": 218,
-    "version": "0.1.218",
-    "datum": "2026-11-26T19:38:48Z",
+    "nummer": 219,
+    "version": "0.1.219",
+    "datum": "2026-11-26T21:20:21Z",
     "url": "https://github.com/isibeser/zenryoku-test/releases/download/zenryoku/ZENRYOKU.apk",
     "signatur": "fest"
   },
@@ -13,8 +13,8 @@
   "mindestNummer": 0,
   "festAb": 184,
   "neu": [
-    "Schneller im Menü",
-    "Grundkurs ohne Überraschung",
-    "Ehrlich gefragt"
+    "Gorran und Aldric zeigen Gesicht",
+    "Jeder Sieg klingt anders",
+    "Haare und Mäntel in Bewegung"
   ]
 }
