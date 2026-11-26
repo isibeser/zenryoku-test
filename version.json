@@ -1,8 +1,8 @@
 {
   "android": {
-    "nummer": 214,
-    "version": "0.1.214",
-    "datum": "2026-11-26T11:57:06Z",
+    "nummer": 215,
+    "version": "0.1.215",
+    "datum": "2026-11-26T16:40:02Z",
     "url": "https://github.com/isibeser/zenryoku-test/releases/download/zenryoku/ZENRYOKU.apk",
     "signatur": "fest"
   },
@@ -13,8 +13,8 @@
   "mindestNummer": 0,
   "festAb": 184,
   "neu": [
+    "Die App startet wieder",
     "Schild, Krater und Weltfaust",
-    "Leuchten wie auf der Konsole",
-    "Jin zieht wie ein Samurai"
+    "Leuchten wie auf der Konsole"
   ]
 }
