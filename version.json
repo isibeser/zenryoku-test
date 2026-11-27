@@ -1,8 +1,8 @@
 {
   "android": {
-    "nummer": 228,
-    "version": "0.1.228",
-    "datum": "2026-11-27T14:04:15Z",
+    "nummer": 229,
+    "version": "0.1.229",
+    "datum": "2026-11-27T14:50:01Z",
     "url": "https://github.com/isibeser/zenryoku-test/releases/download/zenryoku/ZENRYOKU.apk",
     "signatur": "fest"
   },
@@ -13,8 +13,8 @@
   "mindestNummer": 0,
   "festAb": 184,
   "neu": [
+    "Tempo, das man sieht",
     "Schärfer und klarer",
-    "Sigil Clash wie im Film",
-    "Rens Arm sitzt"
+    "Sigil Clash wie im Film"
   ]
 }
