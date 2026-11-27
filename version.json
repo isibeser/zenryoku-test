@@ -1,8 +1,8 @@
 {
   "android": {
-    "nummer": 231,
-    "version": "0.1.231",
-    "datum": "2026-11-27T15:49:40Z",
+    "nummer": 232,
+    "version": "0.1.232",
+    "datum": "2026-11-27T17:25:35Z",
     "url": "https://github.com/isibeser/zenryoku-test/releases/download/zenryoku/ZENRYOKU.apk",
     "signatur": "fest"
   },
@@ -13,8 +13,8 @@
   "mindestNummer": 0,
   "festAb": 184,
   "neu": [
+    "Welt und Himmel wieder da",
     "Rens Faust schlägt ein",
-    "Abwehr, die man sieht",
-    "Tempo, das man sieht"
+    "Abwehr, die man sieht"
   ]
 }
