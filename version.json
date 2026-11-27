@@ -1,8 +1,8 @@
 {
   "android": {
-    "nummer": 233,
-    "version": "0.1.233",
-    "datum": "2026-11-27T18:41:02Z",
+    "nummer": 234,
+    "version": "0.1.234",
+    "datum": "2026-11-27T19:33:31Z",
     "url": "https://github.com/isibeser/zenryoku-test/releases/download/zenryoku/ZENRYOKU.apk",
     "signatur": "fest"
   },
@@ -13,8 +13,8 @@
   "mindestNummer": 0,
   "festAb": 184,
   "neu": [
-    "Rechter Stick und Lock-On",
-    "Jede Arena, jede Heimat",
-    "Welt und Himmel wieder da"
+    "Dash halten, umsehen",
+    "Kämpfer nicht mehr überstrahlt",
+    "Rechter Stick und Lock-On"
   ]
 }
