@@ -1,8 +1,8 @@
 {
   "android": {
-    "nummer": 234,
-    "version": "0.1.234",
-    "datum": "2026-11-27T19:33:31Z",
+    "nummer": 235,
+    "version": "0.1.235",
+    "datum": "2026-11-27T20:19:10Z",
     "url": "https://github.com/isibeser/zenryoku-test/releases/download/zenryoku/ZENRYOKU.apk",
     "signatur": "fest"
   },
@@ -13,8 +13,8 @@
   "mindestNummer": 0,
   "festAb": 184,
   "neu": [
+    "Springen mit Doppeltipp",
     "Dash halten, umsehen",
-    "Kämpfer nicht mehr überstrahlt",
-    "Rechter Stick und Lock-On"
+    "Kämpfer nicht mehr überstrahlt"
   ]
 }
