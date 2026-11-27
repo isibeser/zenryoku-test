@@ -1,8 +1,8 @@
 {
   "android": {
-    "nummer": 221,
-    "version": "0.1.221",
-    "datum": "2026-11-27T02:59:25Z",
+    "nummer": 223,
+    "version": "0.1.223",
+    "datum": "2026-11-27T03:36:30Z",
     "url": "https://github.com/isibeser/zenryoku-test/releases/download/zenryoku/ZENRYOKU.apk",
     "signatur": "fest"
   },
@@ -13,8 +13,8 @@
   "mindestNummer": 0,
   "festAb": 184,
   "neu": [
-    "Gorran und Aldric zeigen Gesicht",
-    "Jeder Sieg klingt anders",
-    "Haare und Mäntel in Bewegung"
+    "Jin bleibt Jin",
+    "Belohnung wieder sichtbar",
+    "Gorran und Aldric zeigen Gesicht"
   ]
 }
