@@ -1,8 +1,8 @@
 {
   "android": {
-    "nummer": 237,
-    "version": "0.1.237",
-    "datum": "2026-11-27T22:14:49Z",
+    "nummer": 238,
+    "version": "0.1.238",
+    "datum": "2026-11-28T05:46:15Z",
     "url": "https://github.com/isibeser/zenryoku-test/releases/download/zenryoku/ZENRYOKU.apk",
     "signatur": "fest"
   },
@@ -13,8 +13,8 @@
   "mindestNummer": 0,
   "festAb": 184,
   "neu": [
+    "Dash ohne Bildfehler",
     "Testen ohne Abtippen",
-    "Kampf in Farbe – auf jedem Handy",
-    "Springen mit Doppeltipp"
+    "Kampf in Farbe – auf jedem Handy"
   ]
 }
