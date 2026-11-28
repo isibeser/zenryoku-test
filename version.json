@@ -1,8 +1,8 @@
 {
   "android": {
-    "nummer": 247,
-    "version": "0.1.247",
-    "datum": "2026-11-28T12:03:01Z",
+    "nummer": 248,
+    "version": "0.1.248",
+    "datum": "2026-11-28T12:52:20Z",
     "url": "https://github.com/isibeser/zenryoku-test/releases/download/zenryoku/ZENRYOKU.apk",
     "signatur": "fest"
   },
@@ -13,8 +13,8 @@
   "mindestNummer": 0,
   "festAb": 184,
   "neu": [
-    "Neue Belohnungs-Karten",
-    "Sigil-Drop mit Licht",
-    "Dash ohne Bildfehler"
+    "Truhen-Lager",
+    "Truhen öffnen aufgeräumt",
+    "Jins Schwertwechsel wie im Anime"
   ]
 }
